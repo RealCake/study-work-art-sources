@@ -32,7 +32,7 @@ Online freedom :
 3D printing :
 <li>https://github.com/TengerTechnologies/Bricklayers
 
-WIFI / CONTROLLER :
+WIFI / CONTROLLERS :
 <li>https://github.com/SpacehuhnTech/esp8266_deauther
 <li>https://github.com/octolance/n2d?tab=readme-ov-file
 <li>https://github.com/espressif/esptool
