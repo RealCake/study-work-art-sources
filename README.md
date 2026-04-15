@@ -20,25 +20,25 @@ Electiacl and circuit design :
 <li>https://www.snapmagic.com/
 
 VFX :
-https://github.com/visonpon/human-motion-capture
-https://github.com/nikopueringer/CorridorKey
+<li>https://github.com/visonpon/human-motion-capture
+<li>https://github.com/nikopueringer/CorridorKey
 
 Online freedom :
-https://github.com/mtxadmin/ublock
-https://github.com/dovecoteescapee/ByeDPIAndroid
-(rus) https://github.com/romanvht/ByeByeDPI
-(pc) https://github.com/ValdikSS/GoodbyeDPI
+<li>https://github.com/mtxadmin/ublock
+<li>https://github.com/dovecoteescapee/ByeDPIAndroid
+<li>(rus) https://github.com/romanvht/ByeByeDPI
+<li>(pc) https://github.com/ValdikSS/GoodbyeDPI
 
 3D printing :
-https://github.com/TengerTechnologies/Bricklayers
+<li>https://github.com/TengerTechnologies/Bricklayers
 
 WIFI / CONTROLLER :
-https://github.com/SpacehuhnTech/esp8266_deauther
-https://github.com/octolance/n2d?tab=readme-ov-file
-https://github.com/espressif/esptool
-https://github.com/ventoy/Ventoy
+<li>https://github.com/SpacehuhnTech/esp8266_deauther
+<li>https://github.com/octolance/n2d?tab=readme-ov-file
+<li>https://github.com/espressif/esptool
+<li>https://github.com/ventoy/Ventoy
 
 Geeky ass gaming :
-https://github.com/CleverRaven/Cataclysm-DDA
-https://github.com/R2Northstar/Northstar
+<li>https://github.com/CleverRaven/Cataclysm-DDA
+<li>https://github.com/R2Northstar/Northstar
 
