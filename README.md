@@ -6,7 +6,7 @@ Lists of knowledge :
 <li>(gamedev)https://github.com/ellisonleao/magictools 
 
 Dorking :
-<li>https://etools.cn
+<li>https://www.etools.ch/mobileSearchSubmit.do
 <li>https://alltheinternet.com
 
 AIs :
