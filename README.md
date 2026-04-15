@@ -2,44 +2,43 @@
 Just a cheatsheet 
 
 Lists of knowledge : 
-github.com/RealCake?tab=stars
-github.com/ellisonleao/magictools (gamedev)
+<li>https://github.com/RealCake?tab=stars
+<li>https://github.com/ellisonleao/magictools (gamedev)
 
 Dorking :
-
-etools.cn
-alltheinternet.com
+<li>https://etools.cn
+<li>https://alltheinternet.com
 
 AIs :
-github.com/j4wg/interview-coder-withoupaywall-opensource
+<li>https://github.com/j4wg/interview-coder-withoupaywall-opensource
 
 Art:
-github.com/igr/gart
-github.com/Akascape/Datamosher-Pro
+<li>https://github.com/igr/gart
+<li>https://github.com/Akascape/Datamosher-Pro
 
 Electiacl and circuit design :
-https://www.snapmagic.com/
+<li>https://www.snapmagic.com/
 
 VFX :
-github.com/visonpon/human-motion-capture
-github.com/nikopueringer/CorridorKey
+https://github.com/visonpon/human-motion-capture
+https://github.com/nikopueringer/CorridorKey
 
 Online freedom :
-github.com/mtxadmin/ublock
-github.com/dovecoteescapee/ByeDPIAndroid
-(rus) github.com/romanvht/ByeByeDPI
-(pc) github.com/ValdikSS/GoodbyeDPI
+https://github.com/mtxadmin/ublock
+https://github.com/dovecoteescapee/ByeDPIAndroid
+(rus) https://github.com/romanvht/ByeByeDPI
+(pc) https://github.com/ValdikSS/GoodbyeDPI
 
 3D printing :
-github.com/TengerTechnologies/Bricklayers
+https://github.com/TengerTechnologies/Bricklayers
 
 WIFI / CONTROLLER :
-github.com/SpacehuhnTech/esp8266_deauther
-github.com/octolance/n2d?tab=readme-ov-file
-github.com/espressif/esptool
-github.com/ventoy/Ventoy
+https://github.com/SpacehuhnTech/esp8266_deauther
+https://github.com/octolance/n2d?tab=readme-ov-file
+https://github.com/espressif/esptool
+https://github.com/ventoy/Ventoy
 
 Geeky ass gaming :
-github.com/CleverRaven/Cataclysm-DDA
-github.com/R2Northstar/Northstar
+https://github.com/CleverRaven/Cataclysm-DDA
+https://github.com/R2Northstar/Northstar
 
