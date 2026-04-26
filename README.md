@@ -18,6 +18,8 @@ Art:
 
 Electiacl and circuit design :
 <li>https://www.snapmagic.com/
+RF:
+<li>https://greatscottgadgets.com/
 
 VFX :
 <li>https://github.com/visonpon/human-motion-capture
